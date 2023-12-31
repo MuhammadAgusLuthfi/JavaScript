@@ -1,0 +1,10 @@
+# Karena JavaScript sekarang hampir diadopsi oleh sebuah aplikasi brwoser,
+akhirnya dibuat sebuah standarisasi yang bernama ECMAScript
+# Organisasi yang melakukan Standarsasi ECMAScript adalah ECMA International
+# Sekarang dengan adanya standarisasi, kita bisa pastikan bahwa kode Program
+JavaScript kita bisa jalan di semua browser, karena brwoser yang ingin mendukung JavaScript,
+harus mengikuti standarisasi ECMAScript
+# Sekarang karena ECMAScript dna JavaScript sama, sekarang bisa dibilang ECMAScript dan
+JavaScript adalah dua nama untuk satu bahasa pemrograman yang sama
+# https://www.ecma-international.org/
+

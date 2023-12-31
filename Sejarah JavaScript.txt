@@ -1,0 +1,22 @@
+Sejarah JavaScript
+# JavaScript atau sering disingkat JS, pertama kali dibuat tahun 1995. 
+Programmer di Netscape bernama Brandan Eich membuat sebuah bahasa pemrograman scripting
+untuk berjalan di Netscape Navigator Browser.
+# Awalnya namanya adalah Mocha, lalu berubah menjadi LiveScript, dan 
+Akhirnya menjadi JavaScript.
+# JavaScript dibuat agar halaman website yang sudah kita buat menggunakan
+HTML dan CSS bisa lebih Interakrif
+# JavaScript sekarang sudah mengalahkan Java Applet dan Flash sebagai
+bahasa pemrograman untuk membuat halaman web menjadi lebih Interakrif,
+hal ini dikarenkan kemudahan bahasa nya dan juga secara default sekarang
+semua browser sudah bisa menjalankan JavaScript tanpa harus menginstal 
+apliaski tambahan seperti Java Applet dan Adobe Flash Player
+
+# Awalnya JavaScript memang kebanyakn digunakan untuk berjalan di client 
+side (Browser)
+
+# Namun akhir-akhir ini, semenjak keluar teknologi NodeJS yang digunakan untuk
+menjalankan JavaScript tanpa browser, Sekarang akhirnya JavaScript juga banyak
+digunakan untuk membuat aplikasi di Server
+# Karena ini, akhirnya sekarang JavaScript dikenal dengan bahas pemrograman
+FullStack (Backend dan Frontend) karena bisa digunakan untuk membuat aplikasi Backend dan aplikasi Frontend

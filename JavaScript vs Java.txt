@@ -1,0 +1,3 @@
+JavaScript vs Java
+# Pemula programmer sering salah tentang JavaScript dan Java. Ada yang mengira
+bahwa Java dan JavaScript adalah bahasa pemrograman yang sama padahal itu berbeda
